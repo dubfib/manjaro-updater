@@ -7,3 +7,11 @@ A list of things that will we updated by the script
 - pacman
 - snap
 - yay
+
+# command list
+```bash
+pamac ~ sudo pamac update
+pacman ~ sudo pacman -Syu
+snap ~ sudo snap refresh
+yay ~ yay
+```
